@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "DMC5-related Decompression Test",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>Some users experience missing audio after installing of my DMC5 repack. This happens due to some of the software not working properly on those PCs. I need to check one theory, cause I don\u2019t have such problem on both machines I have access to.</p><p>Please participate in this test ONLY if you have a problem mentioned above.</p><p>1) Download this small .zip \u2013 <a href=\"https://www27.zippyshare.com/v/AOdkp6R6/file.html\" target=\"_blank\" rel=\"noopener\">https://www27.zippyshare.com/v/AOdkp6R6/file.html</a><br>2) Unpack it and run test.bat<br>3) If everything is OK, you will see small report like this:</p><pre style=\"padding: 20px; color: white; background-color: black;\">12.03.2019  01:09           478\u00a0235 test1.fgu\r12.03.2019  01:09           478\u00a0235 test2.fgu\r12.03.2019  01:09           494\u00a0979 test3.fgu\r12.03.2019  01:09           494\u00a0979 test4.fgu\r</pre><p>If some error will happen, those numbers will be zeroes or no files at all.</p><p>In any case, please write your results and add your system specs. I need to know:</p><ul><li>Your CPU type</li><li>OS version+build</li><li>Type of antivirus, if you\u2019re using one (including default Windows Defender)</li><li>Was installation of DMC5 completely OK for you or you don\u2019t have audio?</li></ul>             </div>"
+}

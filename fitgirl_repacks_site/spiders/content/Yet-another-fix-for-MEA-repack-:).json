@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "Yet another fix for MEA repack :)",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>Yeah, I\u2019m tired of it too. But it\u2019s pretty weird error, never happened in any other repacks.</p><p>If you still experience 43 CRC errors at the end of the installation, try this alternative setup-fitgirl-08.bin, overwriting the existing one.</p><p><a href=\"http://www10.zippyshare.com/v/dQzHfi2n/file.html\" target=\"_blank\" rel=\"noopener\">http://www10.zippyshare.com/v/dQzHfi2n/file.html</a></p><p>If it fails or if it succeeds \u2013 please report in comments and state what Windows version/build are you using. It\u2019s important. Example: Windows 10 x64 Creators Update.</p><div style=\"background-color:red;padding:10px;\"><span style=\"color: #ffffff;\">Update: Just like I thought, the main reason for \u201c43 broken files\u201d error is \u201cCreators Update\u201d for Windows 10, which is pushing slowly by Microsoft since April. I\u2019m yet to identify where those motherfuckers break compatibility, but there is a simple solution, which I recommend to use for all my repacks from now on: run installers in compatibility mode set to Windows 7. That\u2019s it.</span></div>             </div>"
+}

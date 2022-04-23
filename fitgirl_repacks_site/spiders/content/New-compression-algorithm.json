@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "New compression algorithm",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div ><p>As I stated in my \u201c<div><a href=\"http://fitgirl-repacks.site/decompression-test/\" target=\"_blank\">Decompression test</a></div>\u201d post, the new algorithm I use is faster in decompression than LZMA + usually it compress better, sometimes significantly. But there is a downside \u2013 it\u2019s PAINFULLY slow at compression, 6-7 times slower than LZMA.</p><p>Here\u2019s the sample of <strong>Black Ops 3</strong> (hehe) data compressed:</p><div style=\"background-color: black;color:#00ff00;padding:20px;border-radius:10px;margin-bottom:10px;\">Compressed 284,478 files, 83,612,223,393 =&gt; 32,521,343,528 bytes. Ratio 38.90%<br>Compression time: cpu 40860.64 sec/real 140086.91 sec = 29%. Speed 0.60 mB/s</div><p>As you can see, it took almost 39 hours to compress 77.9 GB. Yuck. But for end-user it\u2019s much better due to above-mentioned pros, so now this algo (not public) is becoming my main, replacing the widespread LZMA. Faster installation + better compression = magic combo!</p>             </div>"
+}

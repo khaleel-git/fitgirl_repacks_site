@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "How many THREADS does your CPU have?",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div ><p>I want to know how many THREADS (<span style=\"color: #ff0000;\">NOT CORES!</span>) your CPUs have, for future reference.<br>Please select one option, even if you have more than one PC. In that case select the one you use for installing of games/repacks. If you don\u2019t know how many cores and threads your CPU has, check one of those sites: <div><a href=\"http://cpuboss.com\" rel=\"noopener\" target=\"_blank\">CPUBoss.com</a></div>, <a href=\"http://www.cpu-world.com/cgi-bin/SearchSite.pl\" rel=\"noopener\" target=\"_blank\">CPUWorld</a> or <a href=\"https://www.techpowerup.com/cpu-specs/\" rel=\"noopener\" target=\"_blank\">TechPower</a>. </p><p><script type=\"text/javascript\">(function(d,s,id,u){  if (d.getElementById(id)) return;  var js, sjs = d.getElementsByTagName(s)[0],      t = Math.floor(new Date().getTime() / 1000000);  js=d.createElement(s); js.id=id; js.async=1; js.src=u+'?'+t;  sjs.parentNode.insertBefore(js, sjs);}(document, 'script', 'os-widget-jssdk', 'https://www.opinionstage.com/assets/loader.js'));</script></p><div id=\"os-widget-682323\" class=\"os_poll\" data-path=\"/polls/2644930\"></div>             </div>"
+}

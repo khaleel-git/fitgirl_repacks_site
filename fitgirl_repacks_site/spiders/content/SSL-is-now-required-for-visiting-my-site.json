@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "SSL is now required for visiting my site",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>I\u2019ve switched to an SSL version of the site. Now all old links with http:// should redirect you to https:// ones. Enjoy better security. And feel free to report any bugs.</p>             </div>"
+}

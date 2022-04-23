@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "Tiny Compression Test",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>If you have a couple of minutes, please participate in this tiny compression test. I need to know if it\u2019s compatible with all hardware/software configs that exist out there.</p><p>You need to download this 5 MB file:<br><a href=\"https://www50.zippyshare.com/v/OPobUtkA/file.html\" target=\"_blank\" rel=\"noopener\">https://www50.zippyshare.com/v/OPobUtkA/file.html</a></p><p>Then run it just like any of my repacks, and wait for less than a minute. Then make sure that QuickSFV results window shows that test.fgpack checksum is correct.</p><p>In either case (it\u2019s OK or not) please post your config along with result in comments.</p><p>Example report:</p><p><span style=\"color: #0000ff;\">Test is OK</span><br><span style=\"color: #0000ff;\">Intel i5-6600K, Windows 10 Pro 1809, 16 GB RAM</span></p>             </div>"
+}

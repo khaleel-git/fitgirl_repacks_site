@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "AMD (and old Intel) CPU owners wanted for testing",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>My current DOOM repack cannot be installed on some old CPUs, like AMD Phenoms or Intel Core Duo/Quad. The reason is that the tool used in there uses newer SSE instructions for faster data processing. But since release of my repack new version of the tool became available. And maybe now it supports older CPUs.</p><p>So, if you have and old AMD/Intel CPU (will be even better if my DOOM IDDQD repack failed for you), please <a href=\"/contacts/\">contact me</a> on one of sites listed. I will give you instructions and test set. Thanks in advance.</p><p><span style=\"color: #ff0000;\"><strong>Guys, don\u2019t post your configs here \u2013 you have to contact me personally to get the test set.</strong></span></p>             </div>"
+}

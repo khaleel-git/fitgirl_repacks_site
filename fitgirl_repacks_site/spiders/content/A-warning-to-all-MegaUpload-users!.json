@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "A warning to all MegaUpload users!",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div ><p>Thanks to <div><a href=\"http://fitgirl-repacks.site/bioshock-remastered-v1-0-121321/#comment-8918\" target=\"_blank\">this comment</a></div> today I\u2019ve been informed, that MegaUpload has a bug. It adds unnecessary bytes to the end of each uploaded file. This makes my BIN-files unextractable. I\u2019ve informed MegaUpload about it, but don\u2019t know if they will be able to fix it, and when.</p><p>So, as a temporary measure, if you\u2019re downloading big files from MegaUpload, and they aren\u2019t RARs (those are safe for extracting), but BINs or EXEs, make sure you rehash downloaded files with torrents I provide. Hashing will remove bad bytes and will make archives extractable.</p><p><strong>Huge thanks to Sevic, who discovered this!</strong></p><p><span style=\"color: #339966;\"><strong>Update: I was informed by MegaUpload team, that the bug was fixed, so future uploads have to be good. I\u2019ll check some old ones and if they are bad, will reupload and update all links. This will take some time, though.</strong></span></p>             </div>"
+}

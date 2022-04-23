@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "FIFA 19 Turtle Repack Poll",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>Thanks to a guy named Razor12911, decryption and re-encryption of FIFA 19 files is now possible. But there is a huge problem. Game developers used a very slow compression on game archives. It\u2019s so slow, that installing of the 22-23 GB repack would take ~4 hours on 8-threads CPU and ~8 hours on 4-threads CPU. Since I already have Monkey Repack of FIFA 19 available, I want to know if I should invest my time to a Turtle Repack at all. So, here is the poll.</p><p><script type=\"text/javascript\">(function(d, s, id){  var js,      fjs = d.getElementsByTagName(s)[0],      r = Math.floor(new Date().getTime() / 1000000);  if (d.getElementById(id)) {return;}  js = d.createElement(s); js.id = id; js.async=1;  js.src = \"https://www.opinionstage.com/assets/loader.js?\" + r;  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'os-widget-jssdk'));</script></p><div class=\"os_poll\" data-path=\"/polls/2531012\" id=\"os-widget-2531012\"></div>             </div>"
+}

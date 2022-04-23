@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "Yet Another Compression Test",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>With this test I\u2019m checking the compatibility of some compression algos I use. To participate in this test:</p><ol><li>Download this ZIP archive: <a href=\"http://www21.zippyshare.com/v/GQJzcKEQ/file.html\" target=\"_blank\">http://www21.zippyshare.com/v/GQJzcKEQ/file.html</a></li><li>Unzip it to any folder</li><li>Install all three setups one after another</li><li>Write down installation time and verification results</li><li>Post your results in comments in the following form:<p>\u2013 CPU type<br>\u2013 RAM amount<br>\u2013 Time 1, Result<br>\u2013 Time 2, Result<br>\u2013 Time 3, Result<br>\u2013 AVs/Firewalls present</p></li></ol><p>Example of report:</p><p><span style=\"color: #808080;\">\u2013 Intel i5 6600</span><br><span style=\"color: #808080;\">\u2013 16 GB</span><br><span style=\"color: #808080;\">\u2013 0:04, OK</span><br><span style=\"color: #808080;\">\u2013 0:21, Stuck</span><br><span style=\"color: #808080;\">\u2013 0:35, Failed</span><br><span style=\"color: #808080;\">\u2013 Windows Defender Off</span></p><p>In normal environment on modern CPUs all three installers should succeed, but I need more info on older CPUs. So if you have an access to such a hardware \u2013 please test installers on it too.</p><p>Thanks in advance.</p>             </div>"
+}

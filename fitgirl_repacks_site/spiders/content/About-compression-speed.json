@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "About compression speed",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>Some test data from one yet-uncracked game.</p><p>Compressed 180 files, 44,534,345,240 =&gt; 16,056,726,885 bytes. Ratio 36.05%<br>Compression time: cpu 1808.94 sec/real 131105.97 sec = 1%. Speed 0.34 mB/s</p><p>More than 36 hours of compression, 14 minutes for decompression (from HDD to the same HDD). LZMA would compress it much, much faster. But this archive will decompress faster than LZMA and archive is several hundreds of megabytes smaller, than best brute-forced LZMA settings. FYI, theHunter was compressed in 11 hours.</p><p>Remember this next time, when you ask why I release repacks not in a few hours after scene ISO \ud83d\ude42</p>             </div>"
+}

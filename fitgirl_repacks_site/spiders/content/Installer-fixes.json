@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "Installer fixes",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>With a little help from my friends I\u2019ve fixed the notorious \u201cmissing desktop icon\u201d bug in my installers and updated the script, so now setup.exe checks all optional/selective BINs downloaded and disables checkboxes if no corresponding file(s) found. So now you will see the missing file before \u201cIt is not found any file specified for ISArcExtract\u201d error could appear, saving your time.</p><p>Changes will appear first in BioShock Remastered.</p>             </div>"
+}

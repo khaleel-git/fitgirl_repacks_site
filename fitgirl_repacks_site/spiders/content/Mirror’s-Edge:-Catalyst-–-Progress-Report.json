@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "Mirror\u2019s Edge: Catalyst \u2013 Progress Report",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>I\u2019ve successfully extracted and then rebuilt the data from MEC game resources, so repacking is possible. The size and ETA for release are unknown yet. You have to wait for another smallest repack, you know \ud83d\ude42</p><p>Delay in repack release is due to my attempts to make voiceovers selectable, like with my other MULTI-repacks. But MEC has very complex resource structure, so testing of injected files takes much time.</p><p>Update: Unfortunately, the game verifies internal checksums with SHA-1 hashcode, so ripping lang files makes it loading forever. The final size of the repack with all languages is <span style=\"color: #3366ff;\"><strong>16.7 GB</strong></span>. Coming today.</p>             </div>"
+}

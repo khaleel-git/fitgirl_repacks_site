@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "Faster Installation? Vote now!",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>Imagine, that I\u2019ve changed my repacks algo in a way, when they install faster (up to 3 times, depending on settings and game data), but the compression ratio is slightly worster (around 1-5%). Would you like such change?<br><script type=\"text/javascript\">(function(d, s, id){  var js,      fjs = d.getElementsByTagName(s)[0],      r = Math.floor(new Date().getTime() / 1000000);  if (d.getElementById(id)) {return;}  js = d.createElement(s); js.id = id; js.async=1;  js.src = \"https://www.opinionstage.com/assets/loader.js?\" + r;  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'os-widget-jssdk'));</script></p><div class=\"os_poll\" data-path=\"/polls/2456880\" id=\"os-widget-2456880\"></div>             </div>"
+}

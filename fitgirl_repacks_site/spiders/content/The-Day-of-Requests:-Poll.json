@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "The Day of Requests: Poll",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>OK, here\u2019s the filtered list of your requests. Some could lost in spamfight, some were deleted by my on purpose (breaking the rules, uncompressible, etc.). Now you have a <strong>THREE VOTES</strong> to cast for games you wish I\u2019d repack. Choose wisely. Only 7-10 of the whole list will receive my repack.</p><p><script>  (function(d, s, id){    var js,        fjs = d.getElementsByTagName(s)[0],        p = (('https:' == d.location.protocol) ? 'https://' : 'http://'),        r = Math.floor(new Date().getTime() / 1000000);    if (d.getElementById(id)) {return;}    js = d.createElement(s); js.id = id; js.async=1;    js.src = p + \"www.opinionstage.com/assets/loader.js?\" + r;    fjs.parentNode.insertBefore(js, fjs);  }(document, 'script', 'os-widget-jssdk'));</script></p><div id=\"2440421\" class=\"os_poll\" data-path=\"/polls/2440421\"></div>             </div>"
+}

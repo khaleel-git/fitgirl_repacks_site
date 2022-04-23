@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "Hitman \u2013 Fast or Small?",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p>Hello,</p><p>Out of curiosity I\u2019ve made two repacks of the latest <strong>Hitman GotY</strong> build. One of them is 20.6 GB in size, but installs relatively slow (from ~40 minutes on SSD to ~2 hours on HDD) and the other one is 22.7 GB, but installs 15-30 minutes tops on HDD.</p><p>I\u2019m not gonna release both of them, so you gotta side with just one. Note, the decision is still up to me, but I will consider the poll results.</p><p><script type=\"text/javascript\">(function(d, s, id){  var js,      fjs = d.getElementsByTagName(s)[0],      r = Math.floor(new Date().getTime() / 1000000);  if (d.getElementById(id)) {return;}  js = d.createElement(s); js.id = id; js.async=1;  js.src = \"https://www.opinionstage.com/assets/loader.js?\" + r;  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'os-widget-jssdk'));</script></p><div class=\"os_poll\" data-path=\"/polls/2471449\" id=\"os-widget-2471449\"></div>             </div>"
+}

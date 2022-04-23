@@ -1,0 +1,7 @@
+{
+    "link": null,
+    "title": "Regarding fresh Windows 10 update",
+    "first_img": [],
+    "second_img": null,
+    "body": "<div class=\"entry-content\"><p><del>Recently Microsoft started pushing a new security update (KB4284835) for Windows 10, which basically stops most CODEX Windows Store cracks from working on some machines (not all). This update is the hidden one and not visible in Windows Update Control Panel. You should uninstall it manually.</del></p><p>Run command line window as admin and type:<br><strong>wusa /uninstall /kb:4284835</strong></p><p><del>Wait until it completes and reboot.</del></p><p><del>Fuck you, Microsoft.</del> No, still fuck you. For UWP alone.<del><br></del></p><p><del>Thanks to Godrih for heads up.</del></p><p><span style=\"color: #ff0000; font-size: 14pt;\">The whole thing written above may be a big mistake. So don\u2019t uninstall this update until your UWP games REALLY stop working.</span></p>             </div>"
+}
